@@ -11,7 +11,7 @@ This Python tool integrates **USGS earthquake data** and **NASA satellite imager
   - Filters data by date range, magnitude, and region.
 
 - **Satellite Imagery Integration**:
-  - Fetches satellite imagery from NASA Earthdata or Google Earth Engine.
+  - Fetches satellite imagery from NASA Earthdata.
   - Overlays earthquake locations on the imagery.
 
 - **Interactive Visualization**:
