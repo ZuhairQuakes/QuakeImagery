@@ -19,7 +19,7 @@ This Python tool integrates **USGS earthquake data** and **NASA satellite imager
   - Displays earthquake locations and satellite imagery.
 
 - **Environmental Impact Analysis**:
-  - Analyzes changes in land cover, vegetation, or surface deformation.
+  - Analyzes changes in surface deformation.
 
 ---
 
